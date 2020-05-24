@@ -1,3 +1,6 @@
+/* Created by Eli Malone
+  May 23, 2020 */
+
 #include <iostream>
 #include <string>
 #include <vector>
@@ -281,6 +284,10 @@ int main() {
 
 
 // I didn't finish this part in time :(
+    // here I would have saved the user's roman numerals in a vector of strings. Then I would use if/then statements 
+    // to convert them into the numbers that they represent and I would have saved that set of numbers in a vector of integers.
+    // Then I would use logic to subtract numbers that are behind and add numbers that are in front of a number.
+    // Then I would print the converted number. 
   
   //   else if (userChar == 'r') {
   //     cout << "You selected: Roman Numeral. Please enter a Roman Numeral to convert:" << endl;
